@@ -7,3 +7,26 @@
 Проект по разработке - Arendusprojekt
 Проект по реализации - Realeseerimisprojekt / teostusprojekt
 Диаграмма Ганта - Gantt diagramm
+-----------------------------------------------------------------
+mudel - модель
+kasutusmalliskeem - kasutuslooskeem - диаграмма прецедентов
+tegevuskeem - диаграмма активности / деятельности
+
+jadaskeem - диаграмма последовательностей
+klassiskeem - диаграмма классов
+koostööskeem - диаграмма взаимодейстаия
+
+andmebaasiskeem - диаграмма базы данных 
+olem - 
+seos - связь
+
+muster - узор / схема / шаблон
+mustand - черновик
+
+punkt - 
+romb - ромб
+ristkülik - прямоугольник
+nool - стрелка
+joon - линия
+algussõlm - начальный узел
+ovaal - овал
